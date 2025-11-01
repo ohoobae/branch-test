@@ -1,2 +1,6 @@
 first edition
+<<<<<<< HEAD
 hotfix my solution
+=======
+Hotfix team's solution
+>>>>>>> origin/master
