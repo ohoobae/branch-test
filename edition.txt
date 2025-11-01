@@ -1,3 +1,4 @@
 Hotfix team's solution
 >>>>>>> origin/master
 New function added
+Team upgraded
